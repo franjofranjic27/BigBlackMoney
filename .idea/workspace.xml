@@ -4,17 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BigBlackMoney.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Big_Black_Money_Dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_understanding.py" afterDir="false" />
+    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/data/CTA_-_Ridership_-_Daily_Boarding_Totals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Customer-Churn-Records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Customer-Churn-Records_dirty.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/StudentPerformanceFactors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/Test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 1 - Datenqualität beurteilen.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Demo Forward Propagation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Demo Gradientenabstieg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 10 - kNN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 11 - SVM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 12 - Tree-based" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 13 - kMeans Clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 14 - Hierarchisches Clustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 15 - Principal Component Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 16 - MLP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 17 - MLP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 18 - CNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 19 - RNN_LSTM.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 20 - AE_GAN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 21 - Transformer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 7 - Lineare Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 8 - Logistische Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 9 - Logistische Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/semester_project/data_understanding/data_understanding.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_understanding.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +58,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "franjofranjic27"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/franjofranjic27/BigBlackMoney.git",
+    "accountId": "4ec41e09-f477-4471-9a17-71e6cf090d51"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -50,12 +89,19 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/franjofranjic/Developer/git-repos/BigBlackMoney/data"
+    "last_opened_file_path": "/Users/franjofranjic/Developer/git-repos/BigBlackMoney/notebooks/semester_project/data_understanding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/semester_project/data_understanding" />
+      <recent name="$PROJECT_DIR$/notebooks" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src/excercises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/excercises" />
     </key>
   </component>
   <component name="RunManager">
@@ -102,6 +148,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759470288183</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1759470971671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759470971671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
