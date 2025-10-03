@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# Virtualenv
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/
+
+# PyCharm
+.idea/
