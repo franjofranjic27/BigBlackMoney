@@ -4,44 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/data/CTA_-_Ridership_-_Daily_Boarding_Totals.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Customer-Churn-Records.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/Customer-Churn-Records_dirty.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/StudentPerformanceFactors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/Test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 1 - Datenqualität beurteilen.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Demo Forward Propagation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Demo Gradientenabstieg.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 10 - kNN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 11 - SVM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 12 - Tree-based" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 13 - kMeans Clustering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 14 - Hierarchisches Clustering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 15 - Principal Component Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 16 - MLP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 17 - MLP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 18 - CNN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 19 - RNN_LSTM.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 20 - AE_GAN.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 21 - Transformer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 7 - Lineare Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 8 - Logistische Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/excercises/LB4/Übung 9 - Logistische Regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/semester_project/data_understanding/data_understanding.ipynb" afterDir="false" />
+    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="added notebooks from Google Drive">
+      <change afterPath="$PROJECT_DIR$/notebooks/semester_project/data_preparation/data_preparation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 2 - Statistische Analyse.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 5 - Daten kreieren.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 6 - Daten transformieren.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_understanding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB2/Übung 3 - Visuelle Analyse.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/LB3/Übung 4 - Daten bereinigen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/excercises/Test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/excercises/Test.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "franjofranjic27"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;franjofranjic27&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/franjofranjic27/BigBlackMoney.git",
-    "accountId": "4ec41e09-f477-4471-9a17-71e6cf090d51"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/franjofranjic27/BigBlackMoney.git&quot;,
+    &quot;accountId&quot;: &quot;4ec41e09-f477-4471-9a17-71e6cf090d51&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="33XjPfHEKo8lhB5Tvt9fheTTBmK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,17 +56,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "datagrid.heatmap.switchedByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/franjofranjic/Developer/git-repos/BigBlackMoney/notebooks/semester_project/data_understanding"
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/franjofranjic/Developer/git-repos/BigBlackMoney/notebooks/semester_project/data_preparation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/notebooks/semester_project/data_preparation" />
       <recent name="$PROJECT_DIR$/notebooks/semester_project/data_understanding" />
       <recent name="$PROJECT_DIR$/notebooks" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/src/excercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/notebooks/excercises" />
@@ -118,6 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/data_understanding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -136,7 +115,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -147,6 +127,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759470288183</updated>
+      <workItem from="1759474533560" duration="182000" />
+      <workItem from="1759577394685" duration="8382000" />
+      <workItem from="1760008628171" duration="7923000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -156,11 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759470971671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added notebooks from Google Drive">
+      <option name="closed" value="true" />
+      <created>1759473811911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759473811911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="added notebooks from Google Drive" />
+    <option name="LAST_COMMIT_MESSAGE" value="added notebooks from Google Drive" />
   </component>
 </project>
