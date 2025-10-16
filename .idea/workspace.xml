@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="09.10.2025">
+    <list default="true" id="47b122c4-0158-444c-b994-d106d665b255" name="Changes" comment="16.10.2025 - working on data_understanding.ipynb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/semester_project/data_preparation/data_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/semester_project/data_preparation/data_preparation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/semester_project/data_understanding/data_understanding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/semester_project/data_understanding/data_understanding.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <workItem from="1759474533560" duration="182000" />
       <workItem from="1759577394685" duration="8382000" />
       <workItem from="1760008628171" duration="8528000" />
-      <workItem from="1760616222594" duration="11724000" />
+      <workItem from="1760616222594" duration="12732000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -154,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760019968918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16.10.2025 - working on data_understanding.ipynb">
+      <option name="closed" value="true" />
+      <created>1760643918045</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760643918045</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +171,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="added notebooks from Google Drive" />
     <MESSAGE value="09.10.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="09.10.2025" />
+    <MESSAGE value="16.10.2025 - working on data_understanding.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.10.2025 - working on data_understanding.ipynb" />
   </component>
 </project>
